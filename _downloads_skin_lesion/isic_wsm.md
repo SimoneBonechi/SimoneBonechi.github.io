@@ -32,5 +32,5 @@ The annotations in this dataset are licensed under a [Creative Commons Attributi
 
 If you use this dataset for your research, please cite the following papers:
 * [[bib](http://clem.diism.unisi.it/~coco_ts/cite_ISIC_WSM_ESANN.bib)] Bonechi, S. (2022, November). A weakly supervised approach to skin lesion segmentation. In ESANN 2022 proceedings European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning.
-* [[bib]()] Bonechi, S.. ISIC_WSM: Generating Weak Segmentation Maps for the ISIC archive. To be published in Neurocomputing.
+* [[bib](http://clem.diism.unisi.it/~coco_ts/cite_ISIC_WSM_Neurocomputing.bib)] Bonechi, S., ISIC_WSM: Generating Weak Segmentation Maps for the ISIC archive, Neurocomputing, Volume 523, Pages 69-80, ISSN 0925-2312, 2023, https://doi.org/10.1016/j.neucom.2022.12.033.
 {: style="text-align: justify"}
