@@ -15,7 +15,7 @@ carousels:
 
 {% include carousel.html height="35" unit="%" duration="7" images=carousels %}
 <br>
-The ISIC_WSM dataset ([ISIC_WSM_labels.zip (198 MB)](http://clem.diism.unisi.it/~coco_ts/download_isic_wsm.php)) provides pixel–level supervisions for a subset of images (43885) from the [ISIC](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main) archive, while the original images can be downloaded separately at the [ISIC website](https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery?filter=%5B%5D). The supervision is obtained from the available bounding–boxes of the COCO–Text dataset exploiting a weakly supervised algorithm. See the [paper](https://www.esann.org/sites/default/files/proceedings/2022/ES2022-46.pdf) for more details.
+The ISIC_WSM dataset ([ISIC_WSM_labels.zip (198 MB)](http://clem.diism.unisi.it/~coco_ts/download_isic_wsm.php){:target="_blank" rel="noopener"}) provides pixel–level supervisions for a subset of images (43885) from the [ISIC](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main) archive, while the original images can be downloaded separately at the [ISIC website](https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery?filter=%5B%5D). The supervision is obtained from the available bounding–boxes of the COCO–Text dataset exploiting a weakly supervised algorithm. See the [paper](https://www.esann.org/sites/default/files/proceedings/2022/ES2022-46.pdf) for more details.
 {: style="text-align: justify"}
 
 ### Annotations Description
