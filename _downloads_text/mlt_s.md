@@ -15,7 +15,7 @@ carousels:
 
 {% include carousel.html height="40" unit="%" duration="7" images=carousels %}
 <br>
-The MLT_S dataset ([MLT_S_labels.zip (102.0 MB)](http://clem.diism.unisi.it/~coco_ts/download_mlt_s.php){:target="_blank"}) contains 6896 (5540 from the training set and 1356 from the validation set) label maps for the [MLT](https://rrc.cvc.uab.es/?ch=8&com=introduction) dataset, while the original images can be downloaded separately at the [MLT dataset webpage](https://rrc.cvc.uab.es/?ch=8&com=downloads). The supervision is obtained from the available bounding–boxes of the MLT dataset exploiting a weakly supervised algorithm. See [Implementation](http://clem.diism.unisi.it/~coco_ts/implementation.html) for more details.
+The MLT_S dataset ([MLT_S_labels.zip (102.0 MB)](http://clem.diism.unisi.it/~coco_ts/download_mlt_s.html){:target="_blank" rel="noopener"}) contains 6896 (5540 from the training set and 1356 from the validation set) label maps for the [MLT](https://rrc.cvc.uab.es/?ch=8&com=introduction) dataset, while the original images can be downloaded separately at the [MLT dataset webpage](https://rrc.cvc.uab.es/?ch=8&com=downloads). The supervision is obtained from the available bounding–boxes of the MLT dataset exploiting a weakly supervised algorithm. See [Implementation](http://clem.diism.unisi.it/~coco_ts/implementation.html) for more details.
 {: style="text-align: justify"}
 
 ### Annotations Description

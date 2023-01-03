@@ -15,7 +15,7 @@ carousels:
 
 {% include carousel.html height="35" unit="%" duration="7" images=carousels %}
 <br>
-The IST_S dataset ([IST_Segmentation_labels.zip (4.3 MB)](http://clem.diism.unisi.it/~coco_ts/download_ist_s.php){:target="_blank"}) contains 1475 (979 from the training set and 496 from the test set) label maps for the [Incidental Scene Text](https://rrc.cvc.uab.es/?ch=4) dataset, while the original images can be downloaded separately at the [Incidental Scene Text dataset webpage](https://rrc.cvc.uab.es/?ch=4&com=downloads). The supervision is obtained from the available bounding–boxes of the Incidental Scene Text dataset exploiting a weakly supervised algorithm. See [Implementation](http://clem.diism.unisi.it/~coco_ts/implementation.html) for more details.
+The IST_S dataset ([IST_Segmentation_labels.zip (4.3 MB)](http://clem.diism.unisi.it/~coco_ts/download_ist_s.html){:target="_blank" rel="noopener"}) contains 1475 (979 from the training set and 496 from the test set) label maps for the [Incidental Scene Text](https://rrc.cvc.uab.es/?ch=4) dataset, while the original images can be downloaded separately at the [Incidental Scene Text dataset webpage](https://rrc.cvc.uab.es/?ch=4&com=downloads). The supervision is obtained from the available bounding–boxes of the Incidental Scene Text dataset exploiting a weakly supervised algorithm. See [Implementation](http://clem.diism.unisi.it/~coco_ts/implementation.html) for more details.
 {: style="text-align: justify"}
 
 ### Annotations Description

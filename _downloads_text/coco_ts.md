@@ -15,7 +15,7 @@ carousels:
 
 {% include carousel.html height="35" unit="%" duration="7" images=carousels %}
 <br>
-The COCO_TS dataset ([COCO_TS_labels.zip (19.1 MB)](http://clem.diism.unisi.it/~coco_ts/download_coco_ts.php){:target="_blank"}) provides 14690 pixel–level supervisions for the [COCO–Text](https://bgshih.github.io/cocotext/) images. The original images are the 2014 training images of MSCOCO and can be downloaded separately at the [MSCOCO website](http://cocodataset.org/#download). The supervision is obtained from the available bounding–boxes of the COCO–Text dataset exploiting a weakly supervised algorithm. See [Implementation](http://clem.diism.unisi.it/~coco_ts/implementation.html) for more details.
+The COCO_TS dataset ([COCO_TS_labels.zip (19.1 MB)](http://clem.diism.unisi.it/~coco_ts/download_coco_ts.html){:target="_blank" rel="noopener"}) provides 14690 pixel–level supervisions for the [COCO–Text](https://bgshih.github.io/cocotext/) images. The original images are the 2014 training images of MSCOCO and can be downloaded separately at the [MSCOCO website](http://cocodataset.org/#download). The supervision is obtained from the available bounding–boxes of the COCO–Text dataset exploiting a weakly supervised algorithm. See [Implementation](http://clem.diism.unisi.it/~coco_ts/implementation.html) for more details.
 {: style="text-align: justify"}
 
 ### Annotations Description
