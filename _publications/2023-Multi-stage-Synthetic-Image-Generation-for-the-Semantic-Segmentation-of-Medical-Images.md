@@ -3,7 +3,7 @@ title: "Multi-stage Synthetic Image Generation for the Semantic Segmentation of 
 collection: publications
 permalink: /publications/2023-Multi-stage-Synthetic-Image-Generation-for-the-Semantic-Segmentation-of-Medical-Images
 date: 2023-01-01
-venue: 'Artificial Intelligence and Machine Learning for Healthcare: Vol. 1: Image and Data Analytics, Springer'
+venue: 'Advances in Smart Healthcare Paradigms and Applications, Springer'
 ---
 
 Recommended citation: Paolo Andreini, Simone Bonechi, Giorgio Ciano, Caterina Graziani, Veronica Lachi, Natalia Nikoloulopoulou, Monica Bianchini, and Franco Scarselli. Multi-stage Synthetic Image Generation for the Semantic Segmentation of Medical Images. pages 79–104. Springer International Publishing, Cham, 2023. ([BibTex](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-11154-9_5?format=bibtex&flavour=citation))

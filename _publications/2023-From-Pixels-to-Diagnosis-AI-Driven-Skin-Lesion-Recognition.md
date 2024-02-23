@@ -1,12 +1,14 @@
 ---
 title: "From Pixels to Diagnosis: AI-Driven Skin Lesion Recognition"
 collection: publications
-permalink: /publications/2023-From-Pixels-to-Diagnosis:-AI-Driven-Skin-Lesion-Recognition
-date: 2023-05-01
-venue: 'Advances in Smart Healthcare Paradigms and Applications: Outstanding Women in Healthcare—Volume 1, Springer'
+permalink: /publications/2023-From-Pixels-to-Diagnosis-AI-Driven-Skin-Lesion-Recognition
+date: 2023-08-17
+venue: 'Neurocomputing, Elsevier'
 ---
+
 Recommended citation:
-Monica Bianchini, Paolo Andreini, and Simone Bonechi. From Pixels to Diagnosis: AI-Driven Skin Lesion Recognition. In Advances in Smart Healthcare Paradigms and Applications: Outstanding Women in Healthcare—Volume 1 (pp. 115-135). Cham: Springer Nature Switzerland, 2023. ([BibTex](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-37306-0_6?format=bibtex&flavour=citation))
+Monica Bianchini, Paolo Andreini, & Simone Bonechi. From Pixels to Diagnosis: AI-Driven Skin Lesion Recognition. In Advances in Smart Healthcare Paradigms and Applications: Outstanding Women in Healthcare—Volume 1 (pp. 115-135). Cham: Springer Nature Switzerland. 2023.
+ ([BibTex](https://citation-needed.springer.com/v2/references/10.1007/978-3-031-37306-0_6?format=bibtex&flavour=citation))
 {: style="text-align: justify"}
 
 ### Abstract
