@@ -11,7 +11,7 @@ carousels:
     - image: ../images/img_isic_4.png
 ---
 
-## Coco-Text Segmentation (COCO_TS) Dataset
+## ISIC Weak Segmentation Map Dataset
 
 {% include carousel.html height="35" unit="%" duration="7" images=carousels %}
 <br>
