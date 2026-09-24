@@ -32,22 +32,24 @@ Internship
 * Three months of internship at the Computer Science Department of the University of Copenhagen
 {: style="text-align: justify"}
 
-Scholarship
+Previous Accademic Positions
 ======
-* Scholarship at Department of Information Engineering and Mathematics of the University of Siena (2015-2016). Research activity: "Development of computer vision/artificial intelligence software tools to be integrated into automated systems for analysis reporting" (Tutor Prof. Monica Bianchini)
+* Research grant at Department of Information Engineering and Mathematics of the University of Siena (2025-2026). Research activity: "Deep learning techniques for the quantitative analysis of biomedical images" (Tutor Prof. Alessandro Mecocci)
+* Researcher (RTDa) at the Department of Social, Political and Cognitive Sciences of the University of Siena (2022-2024).
+* Research grant at the Department of Computer Science of the University of Pisa (2021). Research Activity: "Identification of the relevant genetic characteristics in predicting the efficacy of 4CMenB" (Tutor Prof. Corrado Priami)
+{: style="text-align: justify"}
+* Research grant at Tuscia University (Viterbo) (2020-2021). Research activity: "Development of a multi-criteria decision support system for flood risk analysis" (Tutor Dr. Marco Barbanera)
 * Research scholarship financed by bioMeriéux Italia S.p.a. at Department of Information Engineering and Mathematics of the University of Siena (2018-2020). Research activity: "Deep Learning techniques for the segmentation and analysis of medical images" (Tutor Prof. Alessandro Mecocci)
+* Research grant at Department of Information Engineering and Mathematics of the University of Siena (2016-2018). Research activity: "Development of machine learning and computer vision software tools for recognition of documents and profiling bank loan users" (Tutor Prof. Alessandro Mecocci)
+* Scholarship at Department of Information Engineering and Mathematics of the University of Siena (2015-2016). Research activity: "Development of computer vision/artificial intelligence software tools to be integrated into automated systems for analysis reporting" (Tutor Prof. Monica Bianchini)
 {: style="text-align: justify"}
 
-Research Grants
-======
-* Research grant at Department of Information Engineering and Mathematics of the University of Siena (2016-2018). Research activity: "Development of machine learning and computer vision software tools for recognition of documents and profiling bank loan users" (Tutor Prof. Alessandro Mecocci)
-* Research grant at Tuscia University (Viterbo). Research activity: "Development of a multi-criteria decision support system for flood risk analysis" (Tutor Dr. Marco Barbanera)
-* Research grant at the Department of Computer Science of the University of Pisa. Research Activity: "Identification of the relevant genetic characteristics in predicting the efficacy of 4CMenB" (Tutor Prof. Corrado Priami)
-{: style="text-align: justify"}
 
 Editorial Boards
 ======
 * Associate Editor of the journal Neurocomputing published by Elsevier
+* Associate Editor of the journal Frontiers in Artificial Intelligence, Pattern Recognition section.
+* Topic Editor for the Research Topic "Deep Learning for Medical Imaging Applications" in the journal Frontiers in Imaging.
 * Guest Editor for the special issue "Mathematical Modeling and Machine Learning Methods for Bioinformatics and Data Science Applications II" in the journal Mathematics published by MDPI
 {: style="text-align: justify"}
 

@@ -3,11 +3,11 @@ title: "Deep Learning Approaches for mice glomeruli segmentation"
 collection: publications
 permalink: /publications/2022-Deep-Learning-Approaches-for-mice-glomeruli-segmentation
 date: 2022-10-01
-venue: 'Proceedings, 30th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning'
+venue: 'Proceedings, European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning'
 ---
 
-Recommended citation: Duccio Meconcelli, Simone Bonechi, and Giovanna Maria Dimitri. Deep learning approaches for mice glomeruli segmentation. In ESANN 2022 - Proceedings, 30th
-European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, pages 333–338. 2022. ([BibTex](http://clem.diism.unisi.it/~coco_ts/glomeruli_esann.bib))
+Recommended citation: Duccio Meconcelli, Simone Bonechi, and Giovanna Maria Dimitri. Deep learning approaches for mice glomeruli segmentation. Proceedings, 30th
+European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2022) (pp. 333–338). ([BibTex](http://clem.diism.unisi.it/~coco_ts/glomeruli_esann.bib))
 {: style="text-align: justify"}
 
 ### Abstract

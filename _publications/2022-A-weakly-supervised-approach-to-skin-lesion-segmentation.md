@@ -3,10 +3,10 @@ title: "A weakly supervised approach to skin lesion segmentation"
 collection: publications
 permalink: /publications/2022-A-weakly-supervised-approach-to-skin-lesion-segmentation
 date: 2022-10-01
-venue: 'Proceedings, 30th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning'
+venue: 'Proceedings, European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning'
 ---
 
-Recommended citation: Simone Bonechi. A weakly supervised approach to skin lesion segmentation. In ESANN 2022 - Proceedings, 30th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, pages 321–326, 2022. ([BibTex](http://clem.diism.unisi.it/~coco_ts/cite_ISIC_WSM_ESANN))
+Recommended citation: Simone Bonechi. A weakly supervised approach to skin lesion segmentation. Proceedings, 30th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN 2022) (pp. 321–326). ([BibTex](http://clem.diism.unisi.it/~coco_ts/cite_ISIC_WSM_ESANN))
 {: style="text-align: justify"}
 
 ### Abstract

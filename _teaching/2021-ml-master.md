@@ -2,9 +2,10 @@
 title: "Machine Learning for Structural Biology"
 collection: teaching
 type: "Master"
-permalink: /teaching/2021-ml
+permalink: /teaching/2021-ml-master
 venue: "University of Siena, Department of Information Engineering and Mathematics"
-date: 2021-07-01
+#date: 2023-07-01
+date_range: "2021 - 2026"
 location: "Siena, Italy"
 ---
 

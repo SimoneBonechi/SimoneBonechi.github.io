@@ -3,7 +3,7 @@ title: "Enhancing Fluorescence Image Analysis through Deep Learning"
 collection: publications
 permalink: /publications/2023-Enhancing-Fluorescence-Image-Analysis-through-Deep-Learning
 date: 2023-10-20
-venue: 'Proceedings, 2023 IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE)'
+venue: 'Proceedings, IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE)'
 ---
 
 Recommended citation:
