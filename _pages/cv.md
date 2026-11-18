@@ -11,7 +11,7 @@ redirect_from:
 
 Current Position
 ======
-Researcher at the Department of Social, Political and Cognitive Sciences of the University of Siena
+Tenure-Track Assistant Professor (RTT) at the Department of Social, Political and Cognitive Sciences of the University of Siena
 
 Education
 ======
